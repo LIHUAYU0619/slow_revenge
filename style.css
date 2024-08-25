@@ -6,3 +6,12 @@ body{
   font-family: times;
   font-size: 1.5em;
 }
+
+.title{
+  /* position:fixed; */
+}
+.contact{
+  /* position:fixed; */
+  /* right:10px; */
+  bottom:10px;
+}
